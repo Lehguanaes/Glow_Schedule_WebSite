@@ -3,11 +3,11 @@
 # Glow Schedule
 ## Sistema de Agendamento para uma Clínica Estética
 
-
   <a href="glow_schedule" target="_blank"><img src="https://img.shields.io/badge/Código do WebSite-EBF3F8?style=for-the-badge&logo=github&logoColor=CB6373"></a> 
   <a href="https://github.com/emycspri/Glow_Schedule_App.git" target="_blank"><img src="https://img.shields.io/badge/Aplicativo-EBF3F8?style=for-the-badge&logo=github&logoColor=CB6373"></a> 
   <a href="https://www.figma.com/file/AsyqBSFvNkSN8ZIIzuKlQ2/Cl%C3%ADnica-Est%C3%A9tica?type=design&t=1ZkGzKG2SFcM01Rr-6" target="_blank"><img src="https://img.shields.io/badge/-figma-EBF3F8?style=for-the-badge&logo=figma&logoColor=CB6373"></a> 
    <a href="https://www.canva.com/design/DAGV6NnPNY0/8DY3YfCoRzvQSBId8KBvaQ/view?utm_content=DAGV6NnPNY0&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><img src="https://img.shields.io/badge/-Apresentação-EBF3F8?style=for-the-badge&logo=canva&logoColor=CB6373"></a>
+   <a href="glow_schedule/Documentação - Glow Schedule/Documentação - Glow Schedule.pdf" target="_blank"><img src="https://img.shields.io/badge/Documentação do Projeto-EBF3F8?style=for-the-badge&logo=github&logoColor=CB6373"></a> 
 </div>
 
 ## Visão geral
