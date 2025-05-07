@@ -83,8 +83,8 @@ Código:
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/n1ico">
-          <img src="https://avatars.githubusercontent.com/u/125403659?v=4" width="130px;" alt="Nico - Github"/><br>
+        <a href="https://github.com/nelum44">
+          <img src="https://avatars.githubusercontent.com/u/125403659?v=4" width="130px;" alt="Neluma - Github"/><br>
           <sub>
               <b>Nico</b>
           </sub> <br>
