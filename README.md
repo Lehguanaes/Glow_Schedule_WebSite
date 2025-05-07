@@ -86,7 +86,7 @@ Código:
         <a href="https://github.com/nelum44">
           <img src="https://avatars.githubusercontent.com/u/125403659?v=4" width="130px;" alt="Neluma - Github"/><br>
           <sub>
-              <b>Nico</b>
+              <b>Neluma</b>
           </sub> <br>
         </a>
       </td>
